@@ -53,11 +53,11 @@ int main() {
 }
 
 /*
-Output:
-Result of vector addition :
-h_result[0] : 11
-h_result[1] : 22
-h_result[2] : 33
-h_result[3] : 44
-h_result[4] : 55
+* Output:
+* Result of vector addition :
+* h_result[0] : 11
+* h_result[1] : 22
+* h_result[2] : 33
+* h_result[3] : 44
+* h_result[4] : 55
 */ 
